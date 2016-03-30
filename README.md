@@ -33,9 +33,11 @@ Overall Description \ Design and implementation constraints
 Язык программирования - c#, база данных - MySQL
 
 Overall Description \ User documentation
+
 Джейсон, Прайс; Майк, Гандэрлой Visual C# .NET. Полное руководство; КОРОНА принт, 2004. - 960 c.
 
 System features \ System feature X
+
 Add coctails
 
 System features \ System feature X \ Description and priority
@@ -45,18 +47,23 @@ System features \ System feature X \ Description and priority
 - Декілька коктейлів можуть бути замовлені одночасно, з найдорожчий має найвищий приорітет.
 
 System features \ System feature X \ Stimulus/Response sequences
+
 Добавленный коктейль отображается в сетке остальных коктейлей.
 
 System features \ System feature X \ Functional requirements
+
 Ошибок не наблюдается, фича работает правильно. 
 
 Non functional requirements
+
 Only Safety Requirements.
 
 Non functional requirements \ Performance requirements
+
 База данных должна выдерживать не менее 1000 запросов в минуту, что бы все работало нормально. 
 
 Non functional requirements \ Software quality attributes
+
 Должно быть покрыто хотя бы 90% кода
 
 Non functional requirements \ Security requirements
