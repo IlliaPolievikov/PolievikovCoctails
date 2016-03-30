@@ -1,8 +1,10 @@
 # PolievikovCoctails
 Introduction \ Purpose
+
 Удобная система заказа коктейлей.
 
 Introduction \ Document conventions
+
 Терминология ясна.
 
 Introduction \ References
@@ -70,10 +72,13 @@ Non functional requirements \ Security requirements
 -
 
 Appendix A: Glossary
+
 Все и так понятно и доступно каждому. 
 
 Appendix B: Analysis Models
+
 На будущее можно использовать DFD диаграммы взаимодействия и работы.
 
 Appendix C: Issues list
+
 На следующею версию продукта можно выпустить более качественный интерфейс и расширить базу данных.
